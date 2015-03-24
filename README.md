@@ -24,7 +24,9 @@ We acknowledge that there are many cities that share an official name as well (e
 
 ## Future work
 
-It may be useful to map nicknames to more structured data.  For example, we could include some structured data in the proper names, including state/province and country.  Also we could consider building a probabilistic model, in cases where nicknames can refer to more than one place.
+It may be useful to map nicknames to more structured data.  For example, we could include some structured data in the proper names, including state/province and country, and name type (vernacular, historical, or official).  Also we could consider building a probabilistic model, in cases where nicknames can refer to more than one place.
+
+It would be good to include some of the historical names from https://en.wikipedia.org/wiki/List_of_city_name_changes.  This would require a manual review, because some historical names may now be used to refer to current places.
 
 ## Submitting nicknames
 
